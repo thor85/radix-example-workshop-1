@@ -30,6 +30,7 @@ spec:
           replicas: 4
       # secrets:
       #   - MY_SUPER_SECRET
+      #   ...
     - name: www
       src: ./www
       ports:
